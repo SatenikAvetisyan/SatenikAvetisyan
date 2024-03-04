@@ -1,10 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-<p align="center">
-<a href="https://github.com/SatenikAvetisyan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SatenikAvetisyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
 
 - 👋 Hi, I’m @SatenikAvetisyan.
 - 👀 I’m interested in web development, design, and open-source projects.
@@ -14,6 +8,9 @@
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I'm an avid reader of science fiction and fantasy, which inspires me to think about innovative and futuristic solutions in technology.
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=satenikAvetisyan&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=satenikAvetisyan&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Satenik Avetisyan Github Stats"> 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
