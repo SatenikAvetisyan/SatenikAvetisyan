@@ -23,11 +23,11 @@
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="www.linkedin.com/in/satenik-avetisyan" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/satenik-avetisyan/" target="_blank">
+  <img align="center" alt="Satenik Avetisyan| Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:saten914@gmail.com" >
-  <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Satenik Avetisyan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
