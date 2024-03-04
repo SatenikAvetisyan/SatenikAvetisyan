@@ -28,7 +28,7 @@
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
-  <img src="https://github.com/SatenikAvetisyan/SatenikAvetisyan/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://github.com/satenikAvetisyan/satenikAvetisyan/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 
 
