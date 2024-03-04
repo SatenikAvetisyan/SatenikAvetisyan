@@ -26,12 +26,9 @@
 <a href="mailto:saten914@gmail.com" >
   <img align="center" alt="Satenik Avetisyan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<div style="text-align: center;">
-  <img src="https://github.com/satenikAvetisyan/satenikAvetisyan/blob/main/github-user-contribution.svg" alt="snake">
-</div>
 
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/satenikavetisyan/satenikavetisyan/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+
+
+
+
